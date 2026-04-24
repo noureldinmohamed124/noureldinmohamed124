@@ -29,9 +29,8 @@ Also experienced with Flutter, Firebase, React, and Embedded Systems.
 
 # 🎓 Education
 
-### 🏫 Faculty of Computers and Artificial Intelligence  
+### 🏫 El Sewedy International School for Applied Technology & Software  
 📍 Egypt  
-🎓 Bachelor's Degree
 
 ---
 
@@ -43,7 +42,6 @@ Also experienced with Flutter, Firebase, React, and Embedded Systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
 </p>
 
@@ -131,12 +129,16 @@ Built multiple Flutter applications including:
 # 🌍 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
+<a href="https://www.linkedin.com/in/nour-el-den-mohamed-jamel/" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:nourelden.0523066@gmail.com">
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://wa.me/201064487901">
+<img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
 
